@@ -3,12 +3,12 @@ package initransformer
 
 import (
 	"fmt"
-	"github.com/octarinesec/secret-detector/pkg/dataformat"
+	"github.com/jwayong/secret-detector/pkg/dataformat"
 	"strings"
 
 	"gopkg.in/ini.v1"
 
-	"github.com/octarinesec/secret-detector/pkg/secrets"
+	"github.com/jwayong/secret-detector/pkg/secrets"
 )
 
 const (

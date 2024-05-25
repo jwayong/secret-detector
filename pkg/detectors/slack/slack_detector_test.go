@@ -3,7 +3,7 @@ package slack
 import (
 	"testing"
 
-	"github.com/octarinesec/secret-detector/pkg/detectors/tests"
+	"github.com/jwayong/secret-detector/pkg/detectors/tests"
 )
 
 var testCases = []tests.TestCase{

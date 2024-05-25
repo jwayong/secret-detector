@@ -2,8 +2,8 @@ package basicauth
 
 import (
 	"encoding/base64"
-	"github.com/octarinesec/secret-detector/pkg/detectors/helpers"
-	"github.com/octarinesec/secret-detector/pkg/secrets"
+	"github.com/jwayong/secret-detector/pkg/detectors/helpers"
+	"github.com/jwayong/secret-detector/pkg/secrets"
 	"strings"
 )
 

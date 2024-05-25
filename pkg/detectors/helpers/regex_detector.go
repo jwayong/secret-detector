@@ -1,7 +1,7 @@
 package helpers
 
 import (
-	"github.com/octarinesec/secret-detector/pkg/secrets"
+	"github.com/jwayong/secret-detector/pkg/secrets"
 )
 
 type DetectionVerifier func(string, string) bool

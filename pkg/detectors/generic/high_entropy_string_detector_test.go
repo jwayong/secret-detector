@@ -1,7 +1,7 @@
 package generic
 
 import (
-	"github.com/octarinesec/secret-detector/pkg/detectors/tests"
+	"github.com/jwayong/secret-detector/pkg/detectors/tests"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

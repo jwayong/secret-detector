@@ -1,7 +1,7 @@
 package artifactory
 
 import (
-	"github.com/octarinesec/secret-detector/pkg/detectors/tests"
+	"github.com/jwayong/secret-detector/pkg/detectors/tests"
 	"testing"
 )
 

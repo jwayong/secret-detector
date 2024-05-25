@@ -1,4 +1,4 @@
-module github.com/octarinesec/secret-detector
+module github.com/jwayong/secret-detector
 
 go 1.21
 

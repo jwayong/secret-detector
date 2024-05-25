@@ -1,7 +1,7 @@
 package xmltransformer
 
 import (
-	"github.com/octarinesec/secret-detector/pkg/transformers/tests"
+	"github.com/jwayong/secret-detector/pkg/transformers/tests"
 	"testing"
 )
 

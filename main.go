@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/octarinesec/secret-detector/pkg/dataformat"
-	"github.com/octarinesec/secret-detector/pkg/scanner"
-	"github.com/octarinesec/secret-detector/pkg/secrets"
+	"github.com/jwayong/secret-detector/pkg/dataformat"
+	"github.com/jwayong/secret-detector/pkg/scanner"
+	"github.com/jwayong/secret-detector/pkg/secrets"
 	"strings"
 )
 

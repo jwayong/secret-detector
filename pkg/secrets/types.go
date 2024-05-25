@@ -1,7 +1,7 @@
 package secrets
 
 import (
-	"github.com/octarinesec/secret-detector/pkg/dataformat"
+	"github.com/jwayong/secret-detector/pkg/dataformat"
 	"io"
 )
 

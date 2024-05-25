@@ -3,10 +3,10 @@ package command
 import (
 	"fmt"
 	"github.com/mattn/go-shellwords"
-	"github.com/octarinesec/secret-detector/pkg/dataformat"
-	"github.com/octarinesec/secret-detector/pkg/detectors/helpers"
-	"github.com/octarinesec/secret-detector/pkg/detectors/keyword"
-	"github.com/octarinesec/secret-detector/pkg/secrets"
+	"github.com/jwayong/secret-detector/pkg/dataformat"
+	"github.com/jwayong/secret-detector/pkg/detectors/helpers"
+	"github.com/jwayong/secret-detector/pkg/detectors/keyword"
+	"github.com/jwayong/secret-detector/pkg/secrets"
 	"strings"
 )
 
