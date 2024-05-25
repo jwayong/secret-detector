@@ -2,7 +2,7 @@ package command
 
 import (
 	"fmt"
-	"github.com/mattn/go-shellwords"
+	"github.com/jwayong/go-shellwords"
 	"github.com/jwayong/secret-detector/pkg/dataformat"
 	"github.com/jwayong/secret-detector/pkg/detectors/helpers"
 	"github.com/jwayong/secret-detector/pkg/detectors/keyword"
