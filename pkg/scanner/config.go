@@ -2,7 +2,7 @@ package scanner
 
 import (
 	"encoding/json"
-	"github.com/jwayong/secret-detector/pkg/transformers/command"
+
 	"io"
 
 	"gopkg.in/yaml.v3"
@@ -61,7 +61,6 @@ func NewConfigWithDefaults() Config {
 			yamltransformer.Name,
 			xmltransformer.Name,
 			initransformer.Name,
-			command.Name,
 		},
 		Detectors: []string{
 			artifactory.Name,
